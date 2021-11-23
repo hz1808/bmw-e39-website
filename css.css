@@ -226,3 +226,19 @@ button {
     font-family:Trebuchet MS, sans-serif;
     font-size: 20px;
  }
+ 
+.boss-gall {
+max-width: 1500px;
+}
+.gallery {
+display: flex;
+justify-content: center;
+margin: 0 auto;
+ }
+.gal-img {
+margin: 10px;
+border: 6px solid white;
+}
+.gal-img img {
+height: 440px;
+}
