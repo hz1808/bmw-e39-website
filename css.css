@@ -54,7 +54,7 @@ margin-right: 15px;
 
 .knopki {
 margin-top: 50px;
-margin-right: 765px;
+margin-right: 725px;
 }
 
  }
@@ -209,8 +209,8 @@ button {
 }
  /* Подвал */
 
- footer {
     width: 99%;
+ footer {
     background: #3b3b3b;
     padding-bottom: 60px;
     border:5px solid #696969;
@@ -226,8 +226,7 @@ button {
     font-family:Trebuchet MS, sans-serif;
     font-size: 20px;
  }
- 
-.boss-gall {
+    .boss-gall {
 max-width: 1500px;
 }
 .gallery {
@@ -241,4 +240,13 @@ border: 6px solid white;
 }
 .gal-img img {
 height: 440px;
+}
+.txt-logo {
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+    font-weight: 700;
 }
