@@ -209,14 +209,13 @@ button {
 }
  /* Подвал */
 
-    width: 99%;
- footer {
+footer{
+    width:99%;
     background: #3b3b3b;
-    padding-bottom: 60px;
+    padding-bottom:130px;
     border:5px solid #696969;
-    height: 30px;
-    margin-top: 25px;
-    height: 30px;
+    magrin-top:25px;
+    heigth:30px;
  }
 
  .Podval p {
