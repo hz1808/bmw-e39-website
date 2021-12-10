@@ -55,6 +55,7 @@ margin-right: 15px;
 .knopki {
 margin-top: 50px;
 margin-right: 725px;
+
 }
 
  }
@@ -209,13 +210,14 @@ button {
 }
  /* Подвал */
 
-footer{
-    width:99%;
+footer {
+    width: 99%;
     background: #3b3b3b;
-    padding-bottom:130px;
+    padding-bottom: 60px;
     border:5px solid #696969;
-    magrin-top:25px;
-    heigth:30px;
+    height: 30px;
+    margin-top: 25px;
+    height: 30px;
  }
 
  .Podval p {
